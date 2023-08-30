@@ -1,0 +1,15 @@
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\bin\Debug\net6.0\Practicas.exe
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\bin\Debug\net6.0\Practicas.deps.json
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\bin\Debug\net6.0\Practicas.runtimeconfig.json
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\bin\Debug\net6.0\Practicas.dll
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\bin\Debug\net6.0\Practicas.pdb
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.csproj.AssemblyReference.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.AssemblyInfoInputs.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.AssemblyInfo.cs
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.csproj.CoreCompileInputs.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.dll
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\refint\Practicas.dll
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.pdb
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\Practicas.genruntimeconfig.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas\Practicas\obj\Debug\net6.0\ref\Practicas.dll
