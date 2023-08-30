@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\carpetaU\\Practicas aparte\\CertificacionC#\\Practicas\\Practicas\\Practicas.csproj": {}
+    "D:\\carpetaU\\Practicas aparte\\FoundationalCwithMicrosoft\\Practicas\\Practicas\\Practicas.csproj": {}
   },
   "projects": {
-    "D:\\carpetaU\\Practicas aparte\\CertificacionC#\\Practicas\\Practicas\\Practicas.csproj": {
+    "D:\\carpetaU\\Practicas aparte\\FoundationalCwithMicrosoft\\Practicas\\Practicas\\Practicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\carpetaU\\Practicas aparte\\CertificacionC#\\Practicas\\Practicas\\Practicas.csproj",
+        "projectUniqueName": "D:\\carpetaU\\Practicas aparte\\FoundationalCwithMicrosoft\\Practicas\\Practicas\\Practicas.csproj",
         "projectName": "Practicas",
-        "projectPath": "D:\\carpetaU\\Practicas aparte\\CertificacionC#\\Practicas\\Practicas\\Practicas.csproj",
+        "projectPath": "D:\\carpetaU\\Practicas aparte\\FoundationalCwithMicrosoft\\Practicas\\Practicas\\Practicas.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\carpetaU\\Practicas aparte\\CertificacionC#\\Practicas\\Practicas\\obj\\",
+        "outputPath": "D:\\carpetaU\\Practicas aparte\\FoundationalCwithMicrosoft\\Practicas\\Practicas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
