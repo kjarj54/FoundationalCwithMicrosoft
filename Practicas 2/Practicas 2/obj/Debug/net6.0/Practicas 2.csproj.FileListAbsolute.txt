@@ -1,0 +1,15 @@
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\bin\Debug\net6.0\Practicas 2.exe
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\bin\Debug\net6.0\Practicas 2.deps.json
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\bin\Debug\net6.0\Practicas 2.runtimeconfig.json
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\bin\Debug\net6.0\Practicas 2.dll
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\bin\Debug\net6.0\Practicas 2.pdb
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.csproj.AssemblyReference.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.AssemblyInfoInputs.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.AssemblyInfo.cs
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.csproj.CoreCompileInputs.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.dll
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\refint\Practicas 2.dll
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.pdb
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\Practicas 2.genruntimeconfig.cache
+D:\carpetaU\Practicas aparte\CertificacionC#\Practicas 2\Practicas 2\obj\Debug\net6.0\ref\Practicas 2.dll

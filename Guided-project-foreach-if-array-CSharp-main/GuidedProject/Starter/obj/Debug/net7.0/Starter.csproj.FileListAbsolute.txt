@@ -1,0 +1,15 @@
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.exe
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.deps.json
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.dll
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net7.0\Starter.pdb
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.csproj.AssemblyReference.cache
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.dll
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\refint\Starter.dll
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.pdb
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+D:\carpetaU\Practicas aparte\FoundationalCwithMicrosoft\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net7.0\ref\Starter.dll
